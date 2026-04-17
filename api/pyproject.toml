@@ -49,9 +49,9 @@ dependencies = [
     # Emerging: newer and fast-moving, use compatible pins
     "arize-phoenix-otel~=0.15.0",
     "fastopenapi[flask]~=0.7.0",
-    "graphon~=0.1.2",
+    "graphon~=0.2.1",
     "httpx-sse~=0.4.0",
-    "json-repair~=0.59.2",
+    "json-repair~=0.59.4",
     "opik~=1.11.2",
 ]
 # Before adding new dependency, consider place it in
