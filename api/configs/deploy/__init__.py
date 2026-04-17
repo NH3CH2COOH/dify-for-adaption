@@ -9,7 +9,7 @@ class DeploymentConfig(BaseSettings):
 
     APPLICATION_NAME: str = Field(
         description="Name of the application, used for identification and logging purposes",
-        default="langgenius/智能问答助手",
+        default="langgenius/dify",
     )
 
     DEBUG: bool = Field(
